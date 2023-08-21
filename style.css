@@ -136,3 +136,12 @@ ul {
     border-top-left-radius: 50%;
     margin-bottom: -48px;
 }
+
+#btn-read {
+    text-decoration: none;
+    color: #EDE9D5;
+}
+
+#btn-read:hover {
+    color: #617143;
+}
