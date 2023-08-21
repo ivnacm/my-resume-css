@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    background-color: #EDE9D5;
+    color: #617143;
+}
+
+#navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #DF7857;
+}
+
+#home {
+    border-radius: 5px;
+    background-color: #617143;
+    color: #EDE9D5;
+}
+
+.nav-link, p {
+    color: #617143;
+}
+
+#welcome {
+    color: #617143!important;
+    font-family: 'Bad Script', cursive;
+}
+
+#linkedin-logo {
+    margin-right: 15px;
+}
+
+#home:hover {
+    border: solid #617143 1px;
+    color: #617143;
+    background-color: #DF7857;
+}
+
+.nav-link:hover {
+    color: #E7AB9A;
+}
+
+#profile-pic:hover, .logo:hover {
+    opacity: 0.8;
+}
+
+#name {
+    color: #DF7857;
+}
+
+.btn {
+    background-color: #617143;
+    color: #EDE9D5;
+}
+
+.btn:hover {
+    border: solid #617143 1px;
+    color: #617143;
+}
+
+ul {
+    list-style: none;
+}
+
+.experience {
+    padding-bottom: 20px;
+}
+
+#email {
+    text-decoration: none;
+    color: #617143;
+}
+
+#envelope {
+    padding-right: 5px;
+}
+
+.title {
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.place {
+    font-weight: bold;
+}
+
+.skill-icon {
+    padding-right: 5px;
+    height: 30px;
+    width: 30px;
+}
+
+#contact-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#contact-logo {
+    padding-bottom: 40px;
+}
+
+#resume {
+    background-color: #EAB2A0!important;
+}
+
+#skills h3, #contact, #footer {
+    color: #617143;
+}
+
+.title-head {
+    font-family: 'Bad Script', cursive;
+}
+
+.bi-star, .bi-star-fill {
+    color: #DF7857;
+}
+
+#qualifications-bg, .contact-bg {
+    background-color: #e7ab9a8a;
+}
+
+.content-box {
+    background-color: #EDE9D5;
+}
+
+#qualifications-bg h2 {
+    padding-bottom: 30px;
+}
+
+.contain-img {
+    background-color: #DF7857;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    margin-bottom: -48px;
+}
